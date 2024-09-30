@@ -1,5 +1,6 @@
 ---
 layout: landing_page
+permalink: /
 image: profile.jpg
 ---
 
